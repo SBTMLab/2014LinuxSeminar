@@ -9,3 +9,4 @@
 * 기초 명령어 2
 * 라즈베리 파이 하드웨어 제어
 
+https://github.com/SBTMLab/2014LinuxSeminar/wiki
