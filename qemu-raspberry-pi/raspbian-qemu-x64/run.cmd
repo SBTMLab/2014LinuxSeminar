@@ -1,5 +1,7 @@
 @echo off
-echo Copyright (c) 2014 SBTM Lab. http://sbtm.yonsei.ac.kr/
+echo Copyright (c) 2014 SBTM Lab.
+echo http://sbtm.yonsei.ac.kr/
+echo https://github.com/SBTMLab/2014LinuxSeminar
 PUSHD %~dp0
 if exist *.img (
 
