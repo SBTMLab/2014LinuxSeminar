@@ -1,4 +1,5 @@
 PUSHD %~dp0
+echo Copyright (c) 2014 SBTM Lab.
 if exist *.img(
 
 for %%a in (*.img) do (
